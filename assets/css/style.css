@@ -9,6 +9,9 @@
     --secondary-bg-color:#5c1011;
   }
   
+  body{
+    scroll-behavior: smooth;
+  }
   * {
     font-family: "Lato";
     padding: 0;
